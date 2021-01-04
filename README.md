@@ -1,6 +1,6 @@
 # Responsive Portfolio 
 
-## Description
+## Manorath Naphaphone Responsive Portfolio 
 
 Responsive Portfolio using Bootstrap:
 
