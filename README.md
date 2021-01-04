@@ -19,7 +19,8 @@ Desktop view:
 Mobile View: 
 
 ![mobile](https://user-images.githubusercontent.com/63210444/103571859-7aec0280-4e80-11eb-8f79-39334c99c129.png)
-![mobilec](https://user-images.githubusercontent.com/63210444/103571860-7b849900-4e80-11eb-8ce3-265ae2c32a56.png)
 ![mobilep](https://user-images.githubusercontent.com/63210444/103571862-7c1d2f80-4e80-11eb-805c-ea82851ec252.png)
+![mobilec](https://user-images.githubusercontent.com/63210444/103571860-7b849900-4e80-11eb-8ce3-265ae2c32a56.png)
+
 
 
