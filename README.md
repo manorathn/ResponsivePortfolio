@@ -18,7 +18,7 @@ Desktop view:
 
 Tablet View:
 
-![tab1](https://user-images.githubusercontent.com/63210444/103572235-1a10fa00-4e81-11eb-8a74-36ee0dfc2ecb.png)
+![tab1](https://user-images.githubusercontent.com/63210444/115982849-e30b4500-a552-11eb-95d3-d08593df493b.png)
 ![tab2](https://user-images.githubusercontent.com/63210444/115982801-99225f00-a552-11eb-9c85-cfd09ceda269.png)
 ![tab3](https://user-images.githubusercontent.com/63210444/103572247-1d0bea80-4e81-11eb-9e19-f6745d39b8d0.png)
 
